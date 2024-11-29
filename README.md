@@ -36,8 +36,7 @@ O profile ativo pode ser configurado via a variável de ambiente `ACTIVE_PROFILE
 ## **Instalação**
 1. Clone este repositório:
    ```bash
-   git clone <url-do-repositorio>
-   cd first-spring-app
+   git clone https://github.com/dgkeven/first-spring-app.git
    ```
 2. Compile o projeto:
    ```bash
