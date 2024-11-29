@@ -113,7 +113,7 @@ src/main/java
 ---
 
 ## **Autor**
-**Keven**  
+**Keven Mendes**  
 Um desenvolvedor em aprendizado contínuo, explorando as funcionalidades do **Spring Boot** e melhores práticas de desenvolvimento.
 
 ---
